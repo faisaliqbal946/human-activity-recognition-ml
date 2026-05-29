@@ -55,10 +55,11 @@ jupyter notebook Iqbal_Faisal.ipynb
 
 | Model | Accuracy |
 | --- | --- |
-| k-NN | To be updated |
-| SVM | To be updated |
-| Gaussian Naive Bayes | To be updated |
-
+| k-NN (with PCA) | 0.9544 |
+| SVM (with PCA) | 0.9417 |
+| Gaussian Naive Bayes (with PCA) | 0.8194 |
+| Neural Network (CNN) | 0.9636 |
+|Ensemble (k-NN + SVM + NN) | 0.9592 |
 ## Notes
 
 The notebook demonstrates a complete machine learning workflow for human activity recognition, including PCA-based dimensionality reduction and evaluation of k-NN, SVM, and Gaussian Naive Bayes classifiers.
@@ -66,3 +67,6 @@ The notebook demonstrates a complete machine learning workflow for human activit
 ## Author
 
 Faisal Iqbal
+Master's Student
+Institute of Mathematics and Computer Science
+Friedrich Schiller University Jena, Germany
