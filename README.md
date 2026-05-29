@@ -66,7 +66,7 @@ The notebook demonstrates a complete machine learning workflow for human activit
 
 ## Author
 
-Faisal Iqbal
-Master's Student
-Institute of Mathematics and Computer Science
-Friedrich Schiller University Jena, Germany
+- Faisal Iqbal
+- Master's Student
+- Institute of Mathematics and Computer Science
+- Friedrich Schiller University Jena, Germany
