@@ -4,11 +4,27 @@ This project applies machine learning techniques to classify human activities fr
 
 The workflow includes data loading, feature scaling, PCA for dimensionality reduction, model training, and evaluation.
 
+## Key Features
+
+- Loads and processes `.ts` time-series sensor data
+- Applies feature scaling and PCA for dimensionality reduction
+- Trains and compares multiple classical machine learning models
+- Evaluates model performance using standard classification metrics
+
 ## Implemented Models
 
 - k-Nearest Neighbors (k-NN)
 - Support Vector Machine (SVM)
 - Gaussian Naive Bayes
+
+## Technologies Used
+
+- Python
+- NumPy
+- Matplotlib
+- scikit-learn
+- PyTorch
+- SciPy
 
 ## Project Structure
 
@@ -35,6 +51,18 @@ Then open and run the notebook:
 jupyter notebook Iqbal_Faisal.ipynb
 ```
 
+## Results
+
+| Model | Accuracy |
+| --- | --- |
+| k-NN | To be updated |
+| SVM | To be updated |
+| Gaussian Naive Bayes | To be updated |
+
 ## Notes
 
 The notebook demonstrates a complete machine learning workflow for human activity recognition, including PCA-based dimensionality reduction and evaluation of k-NN, SVM, and Gaussian Naive Bayes classifiers.
+
+## Author
+
+Faisal Iqbal
